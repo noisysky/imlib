@@ -20,6 +20,7 @@ class Cell(object):
     ARTIFACT = -1
     CELL = 2
     UNKNOWN = 1
+    VASCULATURE = 3
 
     # for classification compatibility
     NO_CELL = 1
